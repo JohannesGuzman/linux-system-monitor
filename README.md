@@ -48,7 +48,7 @@ linux-system-monitor/
 
 ## How to Run
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/linux-system-monitor.git
+git clone https://github.com/JohannesGuzman/linux-system-monitor.git
 cd linux-system-monitor
 2. Make the script executable
 chmod +x linux_system_monitor.sh
